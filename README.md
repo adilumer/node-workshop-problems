@@ -7,7 +7,7 @@ Problems from Node.js workshop.
 Ders içinde ilgili problem numaraları belirtilecektir. Katılımcılardan bu repo'yu forklayıp soruları kendi başlarına çözmeleri beklenecektir.
 Klasör yapısı aşağıdaki gibidir:
 
-```
+```txt
 problem-x/
 ├── src/
 │   └── index.js
@@ -28,7 +28,7 @@ NPM modüllerini yüklemeyi unutmayın.
 Problem no. would be specified in the session. Attendees are expected to fork this repository and solve the problems on their own.
 Every problem is structured as:
 
-```
+```txt
 problem-x/
 ├── src/
 │   └── index.js
