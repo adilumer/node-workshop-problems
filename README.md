@@ -7,6 +7,7 @@ Problems from Node.js workshop.
 Ders içinde ilgili problem numaraları belirtilecektir. Katılımcılardan bu repo'yu forklayıp soruları kendi başlarına çözmeleri beklenecektir.
 Klasör yapısı aşağıdaki gibidir:
 
+```
 problem-x/
 ├── src/
 │   └── index.js
@@ -15,6 +16,7 @@ problem-x/
 ├── package.json
 ├── jest.config.js
 └── README.md
+```
 
 Çözümler `src` klasöründe kalmalıdır ve ana fonksiyon, `index.js` içinden export edilmelidir. Daha rahat çalışmak için fazladan dosya oluşturulabilir.
 
@@ -26,6 +28,7 @@ NPM modüllerini yüklemeyi unutmayın.
 Problem no. would be specified in the session. Attendees are expected to fork this repository and solve the problems on their own.
 Every problem is structured as:
 
+```
 problem-x/
 ├── src/
 │   └── index.js
@@ -34,6 +37,7 @@ problem-x/
 ├── package.json
 ├── jest.config.js
 └── README.md
+```
 
 The solution should be kept inside the `src` directory, being exported from `index.js`. Additional files can be created for code isolation.
 
