@@ -1,9 +1,10 @@
 {
-  "name": "problem-solving-template",
+  "name": "problem-2",
   "version": "1.0.0",
   "description": "Problem solving setup with test environment",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "jest"
   },
   "dependencies": {},
